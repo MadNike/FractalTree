@@ -1,0 +1,14 @@
+C:\Users\nikem\OneDrive\Документы\GitHub\FractalTree\FractalGenerator\bin\Debug\FractalGenerator.exe.config
+C:\Users\nikem\OneDrive\Документы\GitHub\FractalTree\FractalGenerator\bin\Debug\FractalGenerator.exe
+C:\Users\nikem\OneDrive\Документы\GitHub\FractalTree\FractalGenerator\bin\Debug\FractalGenerator.pdb
+C:\Users\nikem\OneDrive\Документы\GitHub\FractalTree\FractalGenerator\obj\Debug\FractalTree.csprojAssemblyReference.cache
+C:\Users\nikem\OneDrive\Документы\GitHub\FractalTree\FractalGenerator\obj\Debug\FractalGenerator.Properties.Resources.resources
+C:\Users\nikem\OneDrive\Документы\GitHub\FractalTree\FractalGenerator\obj\Debug\FractalTree.csproj.GenerateResource.cache
+C:\Users\nikem\OneDrive\Документы\GitHub\FractalTree\FractalGenerator\obj\Debug\FractalTree.csproj.CoreCompileInputs.cache
+C:\Users\nikem\OneDrive\Документы\GitHub\FractalTree\FractalGenerator\obj\Debug\FractalGenerator.exe
+C:\Users\nikem\OneDrive\Документы\GitHub\FractalTree\FractalGenerator\obj\Debug\FractalGenerator.pdb
+C:\Users\nikem\OneDrive\Документы\GitHub\FractalTree\FractalGenerator\obj\Debug\FractalTree.Form1.resources
+C:\Users\nikem\OneDrive\Документы\GitHub\FractalTree\FractalGenerator\bin\Debug\FractalGenerator.exe.manifest
+C:\Users\nikem\OneDrive\Документы\GitHub\FractalTree\FractalGenerator\bin\Debug\FractalGenerator.application
+C:\Users\nikem\OneDrive\Документы\GitHub\FractalTree\FractalGenerator\obj\Debug\FractalGenerator.exe.manifest
+C:\Users\nikem\OneDrive\Документы\GitHub\FractalTree\FractalGenerator\obj\Debug\FractalGenerator.application
